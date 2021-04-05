@@ -1,4 +1,4 @@
-# about me
+# read "about" me
 
 I'm working as a data scientist --- Ph.D. in Computational Neuroscience
 
