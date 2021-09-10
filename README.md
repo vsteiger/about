@@ -4,8 +4,8 @@ I'm working as a data scientist --- Ph.D. in Computational Neuroscience
 
 
 
-- 🔭 I’m currently working on Machine Learning for Business Use Cases
-- 🌱 I’m currently learning h20.ai & LIME
+- 🔭 I’m currently working on reproducible Machine Learning Approach to answer quantitive Business Questions
+- 🌱 I’m currently focusing on time series analysis
 
 -->
 
